@@ -1,0 +1,14 @@
+/* Your styles go here */
+
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+}
+.box{
+    text-align: center;
+    padding: min(5em, 8%);
+    width: 400px;
+    background-color: green;
+    box-shadow: 0 3px 10px grey;
+border-radius: 10px;
+}
